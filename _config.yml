@@ -26,5 +26,8 @@ links:
   - youtube: "https://www.youtube.com/user/me"
   - steam: "http://steamcommunity.com/id/me/"
 
-excerpt_separator: "\n\n\n"
+markdown: redcarpet
+redcarpet:
+    extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "footnotes"]
+excerpt_separator: "\n\n\n\n"
 defaults: [{scope: {path: ""}, values: {layout: "default"}}, {scope: {path: "", type: "posts"}, values: {comments: true}}]

@@ -11,10 +11,7 @@
     <link href="{{ "/main.css" | prepend: site.baseurl }}" rel="stylesheet" type="text/css">
     <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,200italic,300italic,400italic,600italic,700italic' rel='stylesheet' type='text/css'>
     <link href='//fonts.googleapis.com/css?family=Gentium+Basic:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
-    <link href='//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} &raquo; Feed" href="{{ "/feed.xml" | prepend: site.baseurl }}">
-    {% if site.comments.disqus and page.comments %}<script src="//{{ site.comments.disqus }}.disqus.com/embed.js" async></script>{% endif %}
-    {% if site.comments.isso and page.comments %}<script data-isso="http://{{ site.comments.isso }}" src="//{{ site.comments.isso }}/js/embed.min.js"></script>{% endif %}
   </head>
   <body>
     <header>
@@ -29,9 +26,25 @@
     {% if site.subheading %}<div>{{ site.subheading }}</div>{% endif %}
 {{ content }}
     <footer>
-      <span><a href="{{ site.url }}">{% if page.author %}{{ page.author }}{% else %}{{site.author}}{% endif %}</a></span>
-      <span>{% for link_hash in site.links %}{% for link in link_hash %}<a href="{{ link[1] }}"><i class="fa fa-{{ link[0] }}-square"></i></a>{% endfor %}{% endfor %}</span>
-      <span>&copy; {{ site.time | date: "%Y" }}</span>
+      <span><a href="https://github.com/niklasbuschmann/contrast">Contrast Theme</a></span><span><a href="https://keybase.io/niklasbuschmann">{% if page.author %}{{ page.author }}{% else %}{{site.title}}{% endif %}</a></span><span>{{ site.time | date: "%Y" }}</span>
     </footer>
+
+    <script type="text/javascript">
+    var _paq = _paq || [];
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+      var u="//piwik-niklasbuschmann.rhcloud.com/";
+      _paq.push(['setTrackerUrl', u+'piwik.php']);
+      _paq.push(['setSiteId', 1]);
+      var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+      g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+    </script>
+    <script src="http://23.226.139.155/js/embed.min.js"></script>
+    <style>#isso-thread h4 {padding: 2em 0} #isso-thread svg {max-width: 48px; box-shadow: none} #isso-thread .post-action input {font: inherit; padding: .2em .5em; background-color: white} #isso-thread .post-action input:hover {background-color: #ccc} #isso-thread textarea, #isso-thread input {border: 1px solid silver; box-shadow: none; padding: .3em .5em}</style>
+    <script type="text/javascript">var _cd_options = { theme: 'red' };</script>
+    <style>#_cd_iframe {display:none!important; position:absolute; top:1.5em; left:2em} @media (min-width: 1800px) {#_cd_iframe {display:block!important}}</style>
+    <div style="padding: 0"><script src="//fightforthefuture.github.io/countdown-widget/widget.min.js"></script></div>
   </body>
 </html>

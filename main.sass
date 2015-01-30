@@ -1,0 +1,43 @@
+---
+---
+
+@import basic
+@import mixins
+
+body
+    +body_background({{ site.style.body }})
+    > header, > footer
+        +contrast({{ site.style.nav }})
+    > div
+        +contrast({{ site.style.description }})
+
+{% if site.style.serif-heading %}
+
+h1, h2, h3, h4, h5, h6 
+    font-family: "Gentium Basic", serif
+    text-transform: uppercase
+    letter-spacing: 2px
+    font-weight: bold
+
+{% endif %}
+
+{% if site.style.headline %}
+
+body > div:first-of-type
+    +contrast({{ site.style.headline }})
+    h1
+        padding-top: 1em
+        padding-bottom: 1em
+
+nav ul
+    margin: 0
+
+{% endif %}
+
+article:nth-of-type(even)
+    +article_background({{ site.style.article.even }}, {{ site.style.anchor }})
+
+article:nth-of-type(odd)
+    +article_background({{ site.style.article.odd }}, {{ site.style.anchor }})
+
+@import vendor

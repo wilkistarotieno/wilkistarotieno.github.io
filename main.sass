@@ -38,9 +38,9 @@ nav ul
 {% endif %}
 
 article:nth-of-type(even)
-    +article_background({{ site.style.article.even }}, {{ site.style.anchor }})
+    +article_background({{ site.style.article.even }}{% if site.style.anchor %}, {{ site.style.anchor }} {% endif %})
 
 article:nth-of-type(odd)
-    +article_background({{ site.style.article.odd }}, {{ site.style.anchor }})
+    +article_background({{ site.style.article.odd }}{% if site.style.anchor %}, {{ site.style.anchor }} {% endif %})
 
 @import vendor

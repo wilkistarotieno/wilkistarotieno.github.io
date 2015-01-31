@@ -4,12 +4,21 @@
 @import basic
 @import mixins
 
+$body: {% if site.style.body %}{{ site.style.body }}{% else %}white{% endif %}
+$padding: {% if site.style.padding %}{{ site.style.padding }}{% else %}33%{% endif %}
+$anchor: {% if site.style.anchor %}{{ site.style.anchor }}{% else %}false{% endif %}
+$nav: {% if site.style.nav %}{{ site.style.nav }}{% else %}#181818{% endif %}
+$headline: {% if site.style.headline %}{{ site.style.headline }}{% else %}#06f{% endif %}
+$description: {% if site.style.description %}{{ site.style.description }}{% else %}white{% endif %}
+$odd: {% if site.style.article.odd %}{{ site.style.article.odd }}{% else %}white{% endif %}
+$even: {% if site.style.article.even %}{{ site.style.article.even }}{% else %}#222{% endif %}
+
 body
-    +body_background({{ site.style.body }})
+    +body_background($body, $padding)
     > header, > footer
-        +contrast({{ site.style.nav }})
+        +contrast($nav)
     > div
-        +contrast({{ site.style.description }})
+        +contrast($description)
 
 {% if site.style.serif-heading %}
 
@@ -27,7 +36,7 @@ h1, h2, h3, h4, h5, h6
 {% if site.style.headline %}
 
 body > div:first-of-type
-    +contrast({{ site.style.headline }})
+    +contrast($headline)
     h1
         padding-top: 1em
         padding-bottom: 1em
@@ -38,9 +47,9 @@ nav ul
 {% endif %}
 
 article:nth-of-type(even)
-    +article_background({{ site.style.article.even }}{% if site.style.anchor %}, {{ site.style.anchor }} {% endif %})
+    +article_background($even, $anchor)
 
 article:nth-of-type(odd)
-    +article_background({{ site.style.article.odd }}{% if site.style.anchor %}, {{ site.style.anchor }} {% endif %})
+    +article_background($odd, $anchor)
 
 @import vendor

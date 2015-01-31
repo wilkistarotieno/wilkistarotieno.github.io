@@ -9,6 +9,7 @@ permalink: /:title/
 
 style:
 #    body: "whitesmoke"
+    padding: 33%
     anchor: "#46f"
     serif-heading: true
     nav: "#181818"

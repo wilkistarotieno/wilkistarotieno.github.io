@@ -9,6 +9,6 @@ permalink: about/
 
 ### Portfolio
 
-* [Contrast Theme](http://niklabs.cf/contrast)
-* [cjdns Website](http://niklabs.cf/info-cjdns)
-* [MGplus Kritik](http://mgplus.eu)
+* [Contrast Theme](/contrast)
+* [cjdns Website](/info-cjdns)
+* [MGplus Kritik](/info-mgplus)

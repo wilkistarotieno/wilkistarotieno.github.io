@@ -9,4 +9,4 @@ permalink: about/
 ### Portfolio
 
 * [Contrast Theme](http://niklabs.cf/contrast)
-* [Cjdns Website](http://mawalu.github.io/cjdns-website)
+* [cjdns Website](http://niklabs.cf/info-cjdns)

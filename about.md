@@ -10,5 +10,6 @@ permalink: about/
 ### Portfolio
 
 * [Contrast Theme](/contrast)
-* [cjdns Website](/info-cjdns)
+* [CJDNS Website](/info-cjdns)
 * [MGplus Kritik](/info-mgplus)
+* [Kapitalismus Kritik](/info-kapitalismus)

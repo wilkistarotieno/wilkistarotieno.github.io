@@ -71,7 +71,7 @@ Möchte man einen erfolgreichen Angriff starten, muss man die Hälfte des verfü
 
 Allerdings ist es bei Proof-of-Stake Algorithmen möglich, in mehreren Blockchains nach Blöcken zu suchen, ohne, dass sich die Wahrscheinlichkeit einen Block zu finden entsprechend aufteilt *(Nothing at Stake)*, weshalb dieses Vorgehen sanktioniert werden muss. [siehe [blog.ethereum.org](https://blog.ethereum.org/2014/11/25/proof-stake-learned-love-weak-subjectivity/) oder [wiki.nxtcrypto.org](https://wiki.nxtcrypto.org/wiki/Whitepaper:Nxt#Nothing_at_Stake)]
 
-Scott Driscoll  hat zu dem Thema auf seinem Blog eine gute [Erklärung](http://www.imponderablethings.com/2013/07/how-bitcoin-works-under-hood.html) veröffentlicht.
+Scott Driscoll  hat zu dem Thema auf seinem Blog eine gute [Erklärung](http://www.imponderablethings.com/2014/09/the-essence-of-how-bitcoin-works-non.html) veröffentlicht.
 
 *Lasst gerne Kommentare und Anmerkungen da, falls etwas unverständlich war oder ihr es anders erklären würdet.*
 

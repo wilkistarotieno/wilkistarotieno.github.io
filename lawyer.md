@@ -2,4 +2,4 @@
 permalink: lawyer/
 ---
 
-Moved to [/contrast](http://niklabs.cf/contrast)
+Moved to [/contrast](http://niklabs.me/contrast)

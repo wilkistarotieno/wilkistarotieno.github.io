@@ -8,7 +8,7 @@ url: "http://niklabs.me"
 permalink: /:title/
 
 style:
-    body: "whitesmoke"
+#    body: "whitesmoke"
     padding: 33%
     anchor: "#46f"
     serif-heading: true

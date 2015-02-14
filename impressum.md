@@ -10,8 +10,6 @@ Niklas Buschmann
 Erich-Schmid-Str. 20
 
 71638 Ludwigsburg
+
+niklasbuschmann@gmail.com
 ```
-
-**Mail**
-
-[niklasbuschmann@gmail.com](https://keybase.io/niklasbuschmann)

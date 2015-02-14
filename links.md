@@ -28,12 +28,12 @@ permalink: links/
 *   [Hastebin](http://hastebin.com/about.md)
 *   [Isso](http://posativ.org/isso/)
 
-##### Blogs
+#### Blogs
 
 *   [Jekyll](http://jekyllrb.com/)
 *   [Ghost](https://ghost.org/)
 
-###### Themes
+#### Themes
 
 *   [jekyllthemes.org](http://jekyllthemes.org/)
 *   [contrast](https://github.com/niklasbuschmann/contrast)
@@ -67,7 +67,7 @@ permalink: links/
 
 *   [prism-break.org](https://prism-break.org/)
 
-#### Darknet
+### Darknet
 
 *   [Tor](https://www.torproject.org/)
 *   [I2P](https://geti2p.net/en/)

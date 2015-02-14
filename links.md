@@ -5,10 +5,10 @@ permalink: links/
 
 ## Konzept
 
-*   [bitcoin](https://bitcoin.org/) [[github](https://github.com/bitcoin/bitcoin), [whitepaper](https://bitcoin.org/bitcoin.pdf)]
-*   [namecoin](https://namecoin.info/) [[github](https://github.com/namecoin)]
-*   [cjdns](https://cjdns.info/) [[github](https://github.com/cjdelisle/cjdns), [whitepaper](https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md)]
-*   [ethereum](https://www.ethereum.org/) [[blog](https://blog.ethereum.org/),  [github](https://github.com/ethereum), [whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)]
+*   [bitcoin](https://bitcoin.org/)
+*   [namecoin](https://namecoin.info/)
+*   [cjdns](https://cjdns.info/)
+*   [ethereum](https://www.ethereum.org/)
 
 ## Server
 

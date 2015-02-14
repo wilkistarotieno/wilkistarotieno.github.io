@@ -5,10 +5,10 @@ permalink: links/
 
 ## Konzept
 
-*   [bitcoin](https://bitcoin.org/)
-*   [namecoin](https://namecoin.info/)
+*   [Bitcoin](https://bitcoin.org/)
+*   [Namecoin](https://namecoin.info/)
 *   [cjdns](https://cjdns.info/)
-*   [ethereum](https://www.ethereum.org/)
+*   [Ethereum](https://www.ethereum.org/)
 
 ## Server
 

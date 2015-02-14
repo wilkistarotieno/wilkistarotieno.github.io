@@ -3,65 +3,65 @@ title: "Links"
 permalink: links/
 ---
 
-# Konzept
+## Konzept
 
-*   [bitcoin](https://bitcoin.org/) [[github](https://github.com/bitcoin/bitcoin) - [whitepaper](https://bitcoin.org/bitcoin.pdf)]
+*   [bitcoin](https://bitcoin.org/) [[github](https://github.com/bitcoin/bitcoin), [whitepaper](https://bitcoin.org/bitcoin.pdf)]
 *   [namecoin](https://namecoin.info/) [[github](https://github.com/namecoin)]
-*   [cjdns](https://cjdns.info/) [[github](https://github.com/cjdelisle/cjdns) - [whitepaper](https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md)]
-*   [ethereum](https://www.ethereum.org/) [[blog](https://blog.ethereum.org/) - [github](https://github.com/ethereum) - [whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)]
+*   [cjdns](https://cjdns.info/) [[github](https://github.com/cjdelisle/cjdns), [whitepaper](https://github.com/cjdelisle/cjdns/blob/master/doc/Whitepaper.md)]
+*   [ethereum](https://www.ethereum.org/) [[blog](https://blog.ethereum.org/),  [github](https://github.com/ethereum), [whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)]
 
 ## Server
 
-*   [docker](https://www.docker.com/)
-*   [core-os](https://coreos.com/)
-*   [openshift](https://www.openshift.com/)
+*   [Docker](https://www.docker.com/)
+*   [CoreOS](https://coreos.com/)
+*   [Üpenshift](https://www.openshift.com/)
 
 ### Software
 
-*   [hiawatha](https://www.hiawatha-webserver.org/)
-*   [tinc](http://www.tinc-vpn.org/)
+*   [Hiawatha](https://www.hiawatha-webserver.org/)
+*   [Tinc](http://www.tinc-vpn.org/)
 
 #### Web
 
-*   [owncloud](https://owncloud.org/)
-*   [searx](https://github.com/asciimoo/searx)
-*   [hastebin](http://hastebin.com/about.md)
-*   [isso](http://posativ.org/isso/)
+*   [Owncloud](https://owncloud.org/)
+*   [Searx](https://github.com/asciimoo/searx)
+*   [Hastebin](http://hastebin.com/about.md)
+*   [Isso](http://posativ.org/isso/)
 
 ##### Blogs
 
-*   [jekyll](http://jekyllrb.com/)
-*   [ghost](https://ghost.org/)
+*   [Jekyll](http://jekyllrb.com/)
+*   [Ghost](https://ghost.org/)
 
 ###### Themes
 
 *   [jekyllthemes.org](http://jekyllthemes.org/)
 *   [contrast](https://github.com/niklasbuschmann/contrast)
-*   [hikari](https://github.com/m3xm/hikari-for-Jekyll)
-*   [type-theme](https://github.com/rohanchandra/type-theme)
-*   [pixyll](https://github.com/johnotander/pixyll)
+*   [Hikari](https://github.com/m3xm/hikari-for-Jekyll)
+*   [Type-theme](https://github.com/rohanchandra/type-theme)
+*   [Pixyll](https://github.com/johnotander/pixyll)
 
 ## Software
 
-*   [darktable.org](http://www.darktable.org/)
-*   [popcorntime.io](https://popcorntime.io/)
+*   [Darktable](http://www.darktable.org/)
+*   [Popcorntime](https://popcorntime.io/)
 
 ### Editoren
 
-*   [sublime text](http://www.sublimetext.com/)
-*   [atom](https://atom.io/)
-*   [stackedit](https://stackedit.io/)
+*   [Sublime Text](http://www.sublimetext.com/)
+*   [Atom](https://atom.io/)
+*   [Stackedit](https://stackedit.io/)
 
 ### Kommunikation
 
-*   [tox.im](https://tox.im)
-*   [mailpile](https://www.mailpile.is/)
+*   [Tox](https://tox.im)
+*   [Mailpile](https://www.mailpile.is/)
 
 ### Feedreader
 
-*   [sputnik](http://sputnik.szwacz.com/)
-*   [feedbin](https://feedbin.com/)
-*   [selfoss](http://selfoss.aditu.de)
+*   [Sputnik](http://sputnik.szwacz.com/)
+*   [Feedbin](https://feedbin.com/)
+*   [Selfoss](http://selfoss.aditu.de)
 
 ### Anonymity
 
@@ -69,9 +69,9 @@ permalink: links/
 
 #### Darknet
 
-*   [tor](https://www.torproject.org/)
+*   [Tor](https://www.torproject.org/)
 *   [I2P](https://geti2p.net/en/)
-*   [retroshare](http://retroshare.sourceforge.net/)
+*   [Retroshare](http://retroshare.sourceforge.net/)
 
 ## Bücher
 
@@ -83,29 +83,29 @@ permalink: links/
 
 ## Programmierung
 
-*   [rust](https://github.com/rust-lang/rust)
-*   [node.js](https://nodejs.org/)
+*   [Rust](https://github.com/rust-lang/rust)
+*   [Node.js](https://nodejs.org/)
 
 ### Javascript
 
-*   [meteor](https://github.com/meteor/meteor)
-*   [asynquence](https://github.com/getify/asynquence)
-*   [highland](https://github.com/caolan/highland)
+*   [Meteor](https://github.com/meteor/meteor)
+*   [Asynquence](https://github.com/getify/asynquence)
+*   [Highland](https://github.com/caolan/highland)
 
 ## Services
 
-*   [github](https://github.com/)
-*   [namecheap](https://www.namecheap.com)
+*   [Github](https://github.com/)
+*   [Namecheap](https://www.namecheap.com)
 
 ### Hoster
 
-*   [digitalocean](https://www.digitalocean.com/)
+*   [Digitalocean](https://www.digitalocean.com/)
 *   [online.net](http://www.online.net/)
-*   [uberspace](https://uberspace.de/)
+*   [Uberspace](https://uberspace.de/)
 
 ### VPN
 
-*   [enigmabox](https://enigmabox.net/)
-*   [ipredator](https://ipredator.se/)
-*   [mullvad](https://mullvad.net/en/)
-*   [zorrovpn](https://zorrovpn.com/)
+*   [Enigmabox](https://enigmabox.net/)
+*   [IPredator](https://ipredator.se/)
+*   [Mullvad](https://mullvad.net/en/)
+*   [Zorrovpn](https://zorrovpn.com/)

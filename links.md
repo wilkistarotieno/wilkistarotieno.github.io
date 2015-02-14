@@ -14,7 +14,7 @@ permalink: links/
 
 *   [Docker](https://www.docker.com/)
 *   [CoreOS](https://coreos.com/)
-*   [Üpenshift](https://www.openshift.com/)
+*   [Openshift](https://www.openshift.com/)
 
 ### Software
 

@@ -10,7 +10,7 @@ permalink: links/
 *   [cjdns](https://cjdns.info/)
 *   [Ethereum](https://www.ethereum.org/)
 
-## Deployment
+### Deployment
 
 *   [Docker](https://www.docker.com/)
 *   [CoreOS](https://coreos.com/)
@@ -41,23 +41,23 @@ permalink: links/
 *   [Type-theme](https://github.com/rohanchandra/type-theme)
 *   [Pixyll](https://github.com/johnotander/pixyll)
 
-## Software
+### Software
 
 *   [Darktable](http://www.darktable.org/)
 *   [Popcorntime](https://popcorntime.io/)
 
-## Editoren
+### Editoren
 
 *   [Sublime Text](http://www.sublimetext.com/)
 *   [Atom](https://atom.io/)
 *   [Stackedit](https://stackedit.io/)
 
-## Kommunikation
+### Kommunikation
 
 *   [Tox](https://tox.im)
 *   [Mailpile](https://www.mailpile.is/)
 
-## Feedreader
+### Feedreader
 
 *   [Sputnik](http://sputnik.szwacz.com/)
 *   [Feedbin](https://feedbin.com/)

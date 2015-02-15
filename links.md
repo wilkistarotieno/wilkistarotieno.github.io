@@ -3,37 +3,37 @@ title: "Links"
 permalink: links/
 ---
 
-## Konzept
+### Idee
 
 *   [Bitcoin](https://bitcoin.org/)
 *   [Namecoin](https://namecoin.info/)
 *   [cjdns](https://cjdns.info/)
 *   [Ethereum](https://www.ethereum.org/)
 
-## Server
+## Deployment
 
 *   [Docker](https://www.docker.com/)
 *   [CoreOS](https://coreos.com/)
 *   [Openshift](https://www.openshift.com/)
 
-### Software
+### Serversoftware
 
 *   [Hiawatha](https://www.hiawatha-webserver.org/)
 *   [Tinc](http://www.tinc-vpn.org/)
 
-#### Web
+### Web
 
 *   [Owncloud](https://owncloud.org/)
 *   [Searx](https://github.com/asciimoo/searx)
 *   [Hastebin](http://hastebin.com/about.md)
 *   [Isso](http://posativ.org/isso/)
 
-#### Blogs
+### Blogs
 
 *   [Jekyll](http://jekyllrb.com/)
 *   [Ghost](https://ghost.org/)
 
-#### Themes
+### Themes
 
 *   [jekyllthemes.org](http://jekyllthemes.org/)
 *   [contrast](https://github.com/niklasbuschmann/contrast)
@@ -46,34 +46,34 @@ permalink: links/
 *   [Darktable](http://www.darktable.org/)
 *   [Popcorntime](https://popcorntime.io/)
 
-### Editoren
+## Editoren
 
 *   [Sublime Text](http://www.sublimetext.com/)
 *   [Atom](https://atom.io/)
 *   [Stackedit](https://stackedit.io/)
 
-### Kommunikation
+## Kommunikation
 
 *   [Tox](https://tox.im)
 *   [Mailpile](https://www.mailpile.is/)
 
-### Feedreader
+## Feedreader
 
 *   [Sputnik](http://sputnik.szwacz.com/)
 *   [Feedbin](https://feedbin.com/)
 *   [Selfoss](http://selfoss.aditu.de)
 
-### Anonymity
+### Anonymität
 
 *   [prism-break.org](https://prism-break.org/)
 
-### Darknet
+### Darknets
 
 *   [Tor](https://www.torproject.org/)
 *   [I2P](https://geti2p.net/en/)
 *   [Retroshare](http://retroshare.sourceforge.net/)
 
-## Bücher
+### Bücher
 
 *   [Programming Motherfucker](http://programming-motherfucker.com/become.html)
 *   [Learn you a haskell](http://learnyouahaskell.com/)
@@ -81,18 +81,21 @@ permalink: links/
 *   [Stefan Koch: Javascript](http://www.dpunkt.de/javascript/buch/index.html)
 *   [Stefan Münz: HTML5 / CSS 3 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
 
-## Programmierung
+### Programmierung
 
-*   [Rust](https://github.com/rust-lang/rust)
+*   [Ruby on Rails](http://rubyonrails.org/)
 *   [Node.js](https://nodejs.org/)
+*   [Rust](https://github.com/rust-lang/rust)
 
 ### Javascript
 
-*   [Meteor](https://github.com/meteor/meteor)
+*   [Meteor](https://www.meteor.com/)
+*   [React](http://facebook.github.io/react/)
+*   [Rendr](http://rendrjs.github.io/)
 *   [Asynquence](https://github.com/getify/asynquence)
 *   [Highland](https://github.com/caolan/highland)
 
-## Services
+### Services
 
 *   [Github](https://github.com/)
 *   [Namecheap](https://www.namecheap.com)

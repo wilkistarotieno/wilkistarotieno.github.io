@@ -59,6 +59,7 @@ permalink: links/
 
 ### Feedreader
 
+*   [Atom Reader](https://atom-reader.org/)
 *   [Sputnik](http://sputnik.szwacz.com/)
 *   [Feedbin](https://feedbin.com/)
 *   [Selfoss](http://selfoss.aditu.de)

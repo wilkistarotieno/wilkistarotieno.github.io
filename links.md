@@ -36,7 +36,7 @@ permalink: links/
 ### Themes
 
 *   [jekyllthemes.org](http://jekyllthemes.org/)
-*   [contrast](https://github.com/niklasbuschmann/contrast)
+*   [Contrast](https://github.com/niklasbuschmann/contrast)
 *   [Hikari](https://github.com/m3xm/hikari-for-Jekyll)
 *   [Type-theme](https://github.com/rohanchandra/type-theme)
 *   [Pixyll](https://github.com/johnotander/pixyll)
@@ -76,7 +76,7 @@ permalink: links/
 ### Bücher
 
 *   [Programming Motherfucker](http://programming-motherfucker.com/become.html)
-*   [Learn you a haskell](http://learnyouahaskell.com/)
+*   [Miran Lipovača: Learn you a haskell](http://learnyouahaskell.com/)
 *   [Klaus Schmeh: Kryptografie](http://www.dpunkt.de/buecher/3316/kryptografie.html)
 *   [Stefan Koch: Javascript](http://www.dpunkt.de/javascript/buch/index.html)
 *   [Stefan Münz: HTML5 / CSS 3 Handbuch](http://webkompetenz.wikidot.com/docs:html-handbuch)
@@ -91,6 +91,7 @@ permalink: links/
 
 *   [Meteor](https://www.meteor.com/)
 *   [React](http://facebook.github.io/react/)
+*   [AngularJS](https://angularjs.org/)
 *   [Rendr](http://rendrjs.github.io/)
 *   [Asynquence](https://github.com/getify/asynquence)
 *   [Highland](https://github.com/caolan/highland)
@@ -103,7 +104,7 @@ permalink: links/
 ### Hoster
 
 *   [Digitalocean](https://www.digitalocean.com/)
-*   [online.net](http://www.online.net/)
+*   [Bithost](https://bithost.io/)
 *   [Uberspace](https://uberspace.de/)
 
 ### VPN

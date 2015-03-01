@@ -13,4 +13,3 @@ permalink: about/
 * [Atom Reader](https://atom-reader.org)
 * [CJDNS Website](/info-cjdns)
 * [MGplus Kritik](/info-mgplus)
-* [Kapitalismus Kritik](/info-kapitalismus)

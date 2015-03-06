@@ -10,6 +10,6 @@ permalink: about/
 ### Portfolio
 
 * [Contrast Theme](/contrast)
-* [Atom Reader](https://atom-reader.org)
+* [Atom Reader](/atom-reader)
 * [CJDNS Website](/info-cjdns)
 * [MGplus Kritik](/info-mgplus)

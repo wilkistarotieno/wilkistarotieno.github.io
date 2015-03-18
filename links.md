@@ -36,9 +36,11 @@ permalink: links/
 
 ### Javascript
 
-*   [Meteor](https://www.meteor.com/)
+*   [Polymer](https://www.polymer-project.org/)
 *   [React](http://facebook.github.io/react/)
+*   [Meteor](https://www.meteor.com/)
 *   [AngularJS](https://angularjs.org/)
+*   [Hoodie](http://hood.ie/)
 *   [Asynquence](https://github.com/getify/asynquence)
 *   [Highland](https://github.com/caolan/highland)
 

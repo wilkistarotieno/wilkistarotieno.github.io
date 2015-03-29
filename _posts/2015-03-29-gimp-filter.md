@@ -6,7 +6,7 @@ categories: web osbn
 
 [GIMP](http://www.gimp.org/) hat schon in der Standardinstallation eine große Auswahl an Filtern, mit denen man einige sehr schöne Effekte erzielen kann.
 
-Mithilfe dieser Filter kann man mit recht wenig Aufwand eine passable Ergebnisse erzielen, hier ein kleines Beispiel:
+Mithilfe dieser Filter kann man mit recht wenig Aufwand eine passables Ergebnisse erzielen, hier ein kleines Beispiel:
 
 Als Grundlage dient der **Plasma-Filter** (*Render/Wolken*), der einen bunten Hinergrund generiert.
 

@@ -39,7 +39,6 @@ permalink: links/
 
 *   [Polymer](https://www.polymer-project.org/)
 *   [React](http://facebook.github.io/react/)
-*   [Riot](https://muut.com/riotjs/)
 *   [Meteor](https://www.meteor.com/)
 *   [Hoodie](http://hood.ie/)
 *   [Asynquence](https://github.com/getify/asynquence)

@@ -38,6 +38,8 @@ permalink: links/
 
 *   [Polymer](https://www.polymer-project.org/)
 *   [React](http://facebook.github.io/react/)
+*   [Riot](https://muut.com/riotjs/)
+*   [Aurelia](http://aurelia.io/)
 *   [Meteor](https://www.meteor.com/)
 *   [AngularJS](https://angularjs.org/)
 *   [Hoodie](http://hood.ie/)

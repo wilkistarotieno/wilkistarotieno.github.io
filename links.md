@@ -40,7 +40,6 @@ permalink: links/
 *   [Polymer](https://www.polymer-project.org/)
 *   [React](http://facebook.github.io/react/)
 *   [Riot](https://muut.com/riotjs/)
-*   [Aurelia](http://aurelia.io/)
 *   [Meteor](https://www.meteor.com/)
 *   [Hoodie](http://hood.ie/)
 *   [Asynquence](https://github.com/getify/asynquence)

@@ -42,7 +42,6 @@ permalink: links/
 *   [Riot](https://muut.com/riotjs/)
 *   [Aurelia](http://aurelia.io/)
 *   [Meteor](https://www.meteor.com/)
-*   [AngularJS](https://angularjs.org/)
 *   [Hoodie](http://hood.ie/)
 *   [Asynquence](https://github.com/getify/asynquence)
 *   [Highland](https://github.com/caolan/highland)

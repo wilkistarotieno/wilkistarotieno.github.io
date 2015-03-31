@@ -5,6 +5,7 @@ permalink: links/
 
 ### Software
 
+*   [GitBook](https://www.gitbook.com/)
 *   [Breach](http://breach.cc/)
 *   [Darktable](http://www.darktable.org/)
 *   [Popcorntime](https://popcorntime.io/)

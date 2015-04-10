@@ -39,10 +39,10 @@ permalink: links/
 
 ### Javascript
 
+*   [Polymer](https://www.polymer-project.org/)
+*   [Aurelia](http://aurelia.io/)
 *   [Riot](https://github.com/muut/riotjs/)
 *   [React](https://facebook.github.io/react/)
-*   [Aurelia](http://aurelia.io/)
-*   [Polymer](https://www.polymer-project.org/)
 *   [Meteor](https://www.meteor.com/)
 *   [Hoodie](http://hood.ie/)
 *   [Asynquence](https://github.com/getify/asynquence)

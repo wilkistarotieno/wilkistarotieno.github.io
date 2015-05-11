@@ -3,6 +3,13 @@ title: "Links"
 permalink: links/
 ---
 
+### Peer to Peer
+
+*   [cjdns](https://cjdns.info/)
+*   [Ethereum](https://www.ethereum.org/)
+*   [Namecoin](https://namecoin.info/)
+*   [Bitcoin](https://bitcoin.org/)
+
 ### Software
 
 *   [Gitlab](https://gitlab.com/)
@@ -59,19 +66,13 @@ permalink: links/
 *   [Digitalocean](https://www.digitalocean.com/)
 *   [Bithost](https://bithost.io/)
 *   [Uberspace](https://uberspace.de/)
+*   [Scaleway](https://www.scaleway.com/)
 
 ### Deployment
 
 *   [Docker](https://www.docker.com/)
 *   [CoreOS](https://coreos.com/)
 *   [Openshift](https://www.openshift.com/)
-
-### Peer to Peer
-
-*   [Bitcoin](https://bitcoin.org/)
-*   [Namecoin](https://namecoin.info/)
-*   [cjdns](https://cjdns.info/)
-*   [Ethereum](https://www.ethereum.org/)
 
 ### [Anonymität](https://prism-break.org/)
 

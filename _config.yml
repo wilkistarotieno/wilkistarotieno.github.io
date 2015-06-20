@@ -16,8 +16,8 @@ style:
 #    headline: "#06f"
     description: "white"
     article:
-        odd: "#333"
-        even: "#ffffff"
+        odd: "#ffffff"
+        even: "#333"
 
 links:
   - github: "https://github.com/me/"

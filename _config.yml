@@ -8,15 +8,15 @@ url: "http://niklabs.me"
 permalink: /:title/
 
 style:
-    body: "whitesmoke"
+    body: "#474747"
     padding: 33%
     anchor: "#46f"
     serif-heading: true
-    nav: "#181818"
+    nav: "#222"
 #    headline: "#06f"
     description: "white"
     article:
-        odd: "#ffffff"
+        odd: "#333"
         even: "#ffffff"
 
 links:

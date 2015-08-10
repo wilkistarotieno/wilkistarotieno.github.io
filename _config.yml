@@ -7,8 +7,6 @@ url: "http://niklabs.me"
 
 permalink: /:title/
 
-paginate: 5
-
 style:
 #    body: "whitesmoke"
     padding: 33%

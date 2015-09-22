@@ -1,15 +1,15 @@
 ---
-title: "Impressum"
+title: "Contact"
 permalink: impressum/
 ---
-**Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:**
+**Contact me at:**
 
 ```
-Niklas Buschmann
+Dr. Wilkistar Otieno,
 
-Erich-Schmid-Str. 20
+1061 EMS Building
 
-71638 Ludwigsburg
+University of Wisconsin Milwaukee
 
-niklasbuschmann@gmail.com
+wotieno@uwm.edu
 ```

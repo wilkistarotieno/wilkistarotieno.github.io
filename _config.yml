@@ -1,9 +1,11 @@
-title: "Niklas Buschmann"
-author: "Niklas Buschmann"
-description: "Open-Source, Internet, Krytopgraphie und anderes."
+title: "Dr. Wilkistar Otieno"
+author: "Dr. Wilkistar Otieno"
+#description: "Open-Source, Internet, Krytopgraphie und anderes."
+description: "Professor of Industrial Engineering, University of Wisconsin Milwaukee"
 #subheading: "Open-Source, Internet, Krytopgraphie und anderes."
 more: "zum Artikel"
-url: "http://niklabs.me"
+#url: "http://niklabs.me"
+url:"https://wilkistarotieno.github.io"
 
 permalink: /:title/
 
@@ -22,12 +24,12 @@ style:
         even: "#222222"
 
 links:
-  - github: "https://github.com/me/"
-  - twitter: "https://twitter.com/me/"
-  - google-plus: "https://plus.google.com/+me"
-  - reddit: "https://www.reddit.com/user/me/"
-  - youtube: "https://www.youtube.com/user/me"
-  - steam: "http://steamcommunity.com/id/me/"
+  - github: "https://github.com/wilkistarotieno/"
+  - twitter: "https://twitter.com"
+  - google-plus: "https://plus.google.com"
+  - reddit: "https://www.reddit.com"
+  - youtube: "https://www.youtube.com"
+  - steam: "http://steamcommunity.com"
 
 markdown: redcarpet
 redcarpet:

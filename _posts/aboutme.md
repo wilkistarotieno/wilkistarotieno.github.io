@@ -1,7 +1,7 @@
 ---
 title: "About me"
-date:
-categories:
+date:2015-09-22
+categories: example
 ---
 I am a Data Scientist and Analytics professional with over twelve years of experience in unsupervised and supervised machine learning, optimization, and simulation. I received my Ph.D. in Industrial Engineering from the University of South Florida. I also received a M.S. in Industrial Engineering from there.
 
